@@ -1,0 +1,31 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 8px 8px 8px rgb(64, 76, 107);
+}
+
+.note
+{
+    font-size: 20px;
+    color: darkturquoise;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background: linear-gradient(darkturquoise, dodgerblue, darkcyan, darkviolet ) ;
+    text-align: center;
+    line-height: 4;
+}
+
+canvas
+{
+    border: 5px solid dodgerblue;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px rgb(64, 76, 107);
+}
